@@ -5,12 +5,7 @@ Automate grading the student code while assisting a class in college.
 
 # Installation
 
-If you don't use `pipsi`, you're missing out.
-Here are [installation instructions](https://github.com/mitsuhiko/pipsi#readme).
-
-Simply run:
-
-    $ pipsi install .
+    $ pip install .
 
 
 # Usage
