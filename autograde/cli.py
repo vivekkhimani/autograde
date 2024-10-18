@@ -9,6 +9,4 @@ def main(name, as_cowboy):
     greet = 'Howdy' if as_cowboy else 'Hello'
     click.echo('{0}, {1}.'.format(greet, name))
 
-import flask
-
-flask.Flask(...).run(..., debug=True, ...)
+import json
